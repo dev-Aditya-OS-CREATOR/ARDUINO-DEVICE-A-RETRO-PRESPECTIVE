@@ -8,8 +8,8 @@ rp2040 PI PICO GUI AND TEXT
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-THIS SOFTWARE IS OPEN SOURCE AND HAS NO WARRANTY ON ANY OF THE DEVICE MENTIONED AND NO WARRANTY ON ANYTHING RELATED TO IT
-I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPEN TO YOU OR ANYONE OR ANYTHING 
+THIS SOFTWARE IS OPEN SOURCE AND HAS NO WARRANTY ON ANY OF THE DEVICE MENTIONED AND NO WARRANTY ON ANYTHING RELATED TO IT.
+I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPEN TO YOU OR ANYONE OR ANYTHING .
 IE , ## Disclaimer
 
 **I am not responsible for any issues, damages, or losses resulting from the use of this code or software.**
